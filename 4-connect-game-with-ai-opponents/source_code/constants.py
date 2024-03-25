@@ -1,0 +1,2 @@
+
+ROW_SIZE, COL_SIZE = (7, 8)
